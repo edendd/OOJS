@@ -4,5 +4,8 @@ constructor(){
     this.id = `token-${index}-${owner.id}`
     this.dropped = false;
 }
+// Draw new HTML token
+
+
 
 }
